@@ -1,0 +1,31 @@
+{
+  "name": "Vive",
+  "description": "Awesome embeded comments framework",
+  "repository": "https://github.com/greenhat616/ncm-helper",
+  "author": "a632079 <a632079@qq.com>",
+  "license": "GPL",
+  "private": true,
+  "scripts": {
+    "commit": "git-cz"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^8.3.5",
+    "@commitlint/config-conventional": "^8.3.4",
+    "@commitlint/prompt": "^8.3.5",
+    "@commitlint/prompt-cli": "^8.3.5",
+    "commitizen": "^4.0.3",
+    "cz-conventional-changelog": "^3.1.0",
+    "husky": "^4.2.5",
+    "lint-staged": "^10.0.8"
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/@commitlint/prompt"
+    }
+  }
+}

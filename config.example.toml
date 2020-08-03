@@ -1,0 +1,6 @@
+[server]
+port = 8000
+secret = "" # fill your secret token
+
+  [server.auth]
+  master_key = "" # Master Key is the global key that will be required upon all requests if not empty
