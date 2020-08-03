@@ -9,6 +9,7 @@ Vive（读作 `/vi:v/`，取自法语中生活，生动活泼的意思），是�
 
 ![Go](https://github.com/hitokoto-osc/Vive/workflows/Go/badge.svg)
 ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/hitokoto-osc/Vive)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/bf50644931824cf2887c65cb177bae61)](https://www.codacy.com/gh/hitokoto-osc/Vive?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=hitokoto-osc/Vive&amp;utm_campaign=Badge_Grade)
 [![Maintainability](https://api.codeclimate.com/v1/badges/3eedabb10c8fa983538d/maintainability)](https://codeclimate.com/github/hitokoto-osc/Vive/maintainability)
 [![GoReportCard](https://goreportcard.com/badge/github.com/hitokoto-osc/Vive)](https://goreportcard.com/report/github.com/hitokoto-osc/Vive)
 [![codecov](https://codecov.io/gh/hitokoto-osc/Vive/branch/master/graph/badge.svg)](https://codecov.io/gh/hitokoto-osc/Vive)
