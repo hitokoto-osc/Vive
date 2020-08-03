@@ -41,7 +41,6 @@ Vive（读作 `/vi:v/`，取自法语中生活，生动活泼的意思），是�
 
 ### 依赖
 
--   项目协议来自 [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi)
 -   框架（重要的外部依赖）
     -   配置：viper
     -   日志：logrus
