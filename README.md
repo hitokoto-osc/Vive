@@ -19,11 +19,11 @@ Vive（读作 `/vi:v/`，取自法语中生活，生动活泼的意思），是�
 
 ## 状态：开发
 
-* 新特性会不断添加
-* 机制存在缺陷，甚至不能运行
-* 可能会丢失数据
-* 运行时可能会出现不合预期的问题
-* **不能用于生产环境**
+  * 新特性会不断添加
+  * 机制存在缺陷，甚至不能运行
+  * 可能会丢失数据
+  * 运行时可能会出现不合预期的问题
+  * **不能用于生产环境**
 
 ## 鸣谢
 
@@ -35,29 +35,28 @@ Vive（读作 `/vi:v/`，取自法语中生活，生动活泼的意思），是�
 项目代码遵循 **GNU General Public License v3.0** 许可。  
 此外，项目不会通过任何途径 **签发** 或 **授权** 商用行为（commercial use）。
 
-
 ## 开发
 
 现在，让我们简单阐述下怎样参与咱们的开发。
 
 ### 依赖
 
-* 项目协议来自 [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) 
-* 框架（重要的外部依赖）
-  * 配置：viper
-  * 日志：logrus
-  * Web：gin
-  * flag 解析：pflag
-  * CI/CD：Github Action（后期前端内容的继承也将通过此服务）
+  * 项目协议来自 [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) 
+  * 框架（重要的外部依赖）
+    * 配置：viper
+    * 日志：logrus
+    * Web：gin
+    * flag 解析：pflag
+    * CI/CD：Github Action（后期前端内容的继承也将通过此服务）
 
 ### 编译
 
-```bash
+```shell
 $ make build
 ```  
 
 ### 测试
 
-```bash
+```shell
 $ make test
 ```
