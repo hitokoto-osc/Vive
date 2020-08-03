@@ -27,7 +27,7 @@ Vive（读作 `/vi:v/`，取自法语中生活，生动活泼的意思），是�
 
 ## 鸣谢
 
-网易云助手离不开 **萌创团队** 以及 **一言项目组** 的支持，更离不开  [JetBrains](https://www.jetbrains.com/?from=hitokoto-osc) 为开源项目免费提供具有强生产力的 IDE 等相关授权。
+Vive 离不开 **萌创团队** 以及 **一言项目组** 的支持，更离不开  [JetBrains](https://www.jetbrains.com/?from=hitokoto-osc) 为开源项目免费提供具有强生产力的 IDE 等相关授权。
 [<img src=".github/jetbrains-variant-3.png" width="200"/>](https://www.jetbrains.com/?from=hitokoto-osc)
 
 ## 许可证
@@ -37,7 +37,7 @@ Vive（读作 `/vi:v/`，取自法语中生活，生动活泼的意思），是�
 
 ## 开发
 
-现在，让我们简单阐述下怎样参与咱们的开发。
+现在，让我们简单介绍下怎样参与咱们的开发。
 
 ### 依赖
 
@@ -47,6 +47,16 @@ Vive（读作 `/vi:v/`，取自法语中生活，生动活泼的意思），是�
     -   Web：gin
     -   flag 解析：pflag
     -   CI/CD：Github Action（后期前端内容的继承也将通过此服务）
+
+### 初始开发环境
+
+1.  自行安装 Go SDK
+2.  克隆项目至 `$GOROOT/src/github.com/hitokoto-osc/Vive`
+3.  安装 node 依赖。
+
+```shell
+$ yarn
+```
 
 ### 编译
 
