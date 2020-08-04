@@ -13,7 +13,7 @@ require (
 	github.com/go-bindata/go-bindata v3.1.2+incompatible // indirect
 	github.com/go-playground/validator/v10 v10.3.0 // indirect
 	github.com/go-resty/resty/v2 v2.3.0
-	github.com/golang/mock v1.4.3
+	github.com/golang/mock v1.4.4
 	github.com/golang/protobuf v1.4.2 // indirect
 	github.com/gorilla/sessions v1.2.0 // indirect
 	github.com/json-iterator/go v1.1.10
