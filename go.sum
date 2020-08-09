@@ -60,6 +60,8 @@ github.com/gin-contrib/cors v1.3.1 h1:doAsuITavI4IOcd0Y19U4B+O0dNWihRyX//nn4sEmg
 github.com/gin-contrib/cors v1.3.1/go.mod h1:jjEJ4268OPZUcU7k9Pm653S7lXUGcqMADzFA61xsmDk=
 github.com/gin-contrib/requestid v0.0.0-20200512155051-855d6508f0f0 h1:05UXaOJP7ASqiq1Loxc9gu4oUd/EGpovwmj+xHx/pns=
 github.com/gin-contrib/requestid v0.0.0-20200512155051-855d6508f0f0/go.mod h1:zZOqhFJBrOv1CwUL1lz6dPXCNxOWmVPRPtQMYdYHadA=
+github.com/gin-contrib/requestid v0.0.1 h1:pX7Mq3+SJM29OI6WmhDDCkoIj8CFlDdcMmDuz1D7amA=
+github.com/gin-contrib/requestid v0.0.1/go.mod h1:qHYO+O8Oo6+l3hZHL4zXyZKDaVHbAN4XdRint4Ex4+U=
 github.com/gin-contrib/sessions v0.0.3 h1:PoBXki+44XdJdlgDqDrY5nDVe3Wk7wDV/UCOuLP6fBI=
 github.com/gin-contrib/sessions v0.0.3/go.mod h1:8C/J6cad3Il1mWYYgtw0w+hqasmpvy25mPkXdOgeB9I=
 github.com/gin-contrib/sse v0.1.0 h1:Y/yl/+YNO8GZSjAhjMsSuLt29uWRFHdHYUb5lYOV9qE=

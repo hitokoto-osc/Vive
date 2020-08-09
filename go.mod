@@ -7,7 +7,7 @@ require (
 	github.com/adjust/uniuri v0.0.0-20130923163420-498743145e60 // indirect
 	github.com/fsnotify/fsnotify v1.4.9 // indirect
 	github.com/gin-contrib/cors v1.3.1
-	github.com/gin-contrib/requestid v0.0.0-20200512155051-855d6508f0f0
+	github.com/gin-contrib/requestid v0.0.1
 	github.com/gin-contrib/sessions v0.0.3
 	github.com/gin-gonic/gin v1.6.3
 	github.com/go-bindata/go-bindata v3.1.2+incompatible // indirect
