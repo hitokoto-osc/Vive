@@ -22,7 +22,7 @@
     "commitizen": "4.1.2",
     "cz-conventional-changelog": "3.2.0",
     "husky": "4.2.5",
-    "lint-staged": "10.2.11",
+    "lint-staged": "10.2.13",
     "remark-cli": "8.0.1",
     "remark-preset-lint-recommended": "4.0.1"
   },
