@@ -13,7 +13,7 @@ require (
 	github.com/go-bindata/go-bindata v3.1.2+incompatible // indirect
 	github.com/go-playground/validator/v10 v10.3.0 // indirect
 	github.com/go-resty/resty/v2 v2.3.0
-	github.com/golang/mock v1.4.4
+	github.com/golang/mock v1.6.0
 	github.com/golang/protobuf v1.4.2 // indirect
 	github.com/gorilla/sessions v1.2.0 // indirect
 	github.com/json-iterator/go v1.1.10
@@ -32,10 +32,8 @@ require (
 	github.com/spf13/viper v1.7.1
 	github.com/stretchr/testify v1.6.1
 	github.com/thinkerou/favicon v0.1.0
-	golang.org/x/net v0.0.0-20200707034311-ab3426394381 // indirect
-	golang.org/x/sys v0.0.0-20200802091954-4b90ce9b60b3 // indirect
+	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9 // indirect
 	golang.org/x/text v0.3.3 // indirect
-	golang.org/x/tools v0.0.0-20200731060945-b5fad4ed8dd6 // indirect
 	google.golang.org/protobuf v1.25.0 // indirect
 	gopkg.in/bsm/ratelimit.v1 v1.0.0-20160220154919-db14e161995a // indirect
 	gopkg.in/ini.v1 v1.57.0 // indirect
