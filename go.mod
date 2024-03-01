@@ -30,7 +30,7 @@ require (
 	github.com/spf13/jwalterweatherman v1.1.0 // indirect
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.7.1
-	github.com/stretchr/testify v1.6.1
+	github.com/stretchr/testify v1.9.0
 	github.com/thinkerou/favicon v0.1.0
 	golang.org/x/net v0.0.0-20200707034311-ab3426394381 // indirect
 	golang.org/x/sys v0.0.0-20200802091954-4b90ce9b60b3 // indirect
